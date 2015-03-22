@@ -1,6 +1,6 @@
 # Cool Story Bro - Keynote Theme
 
-![Example Slide](https://cloud.githubusercontent.com/assets/762949/6768208/42c04630-d01b-11e4-97a7-c6de0358bb3d.jpg)
+![Example Slide](https://cloud.githubusercontent.com/assets/762949/6768213/7eb36c9e-d01b-11e4-8194-c8135a09a466.jpg)
 ![Available Master Slides](https://cloud.githubusercontent.com/assets/762949/6768190/2c4e9790-d01a-11e4-8535-541cd3a8b61b.png)
 
 
