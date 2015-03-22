@@ -3,6 +3,8 @@
 ![Example Slide](https://cloud.githubusercontent.com/assets/762949/6768213/7eb36c9e-d01b-11e4-8194-c8135a09a466.jpg)
 ![Available Master Slides](https://cloud.githubusercontent.com/assets/762949/6768190/2c4e9790-d01a-11e4-8535-541cd3a8b61b.png)
 
+## Description
+Someone [requested](https://twitter.com/walesmd/status/579485183440658432) I share this theme, so here it is. It was originally created and used for my talk on [The Coveted Universal Web Component Format](https://www.youtube.com/watch?v=sNeK4Kplo9g).
 
 ## Install
 You'll need to install the free **Bebas Neue** font. You can find download it [here](http://fontfabric.com/bebas-neue/) (or use this [direct link](http://fontfabric.com/downfont/bebas.zip)). Note that Bebas Neue has *its own license* independent of this theme. It's pretty liberal though.
